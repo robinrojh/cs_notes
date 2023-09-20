@@ -1,6 +1,7 @@
 ---
 tags:
   - DataStructure
+  - Graph
 ---
 #### Name: Directed Acyclic Graph (DAG)
 

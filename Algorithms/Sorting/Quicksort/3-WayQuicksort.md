@@ -2,7 +2,6 @@
 tags:
   - Sorting
   - Algorithm
-aliases:
 ---
 Time Complexity: 
 - Worst: O(n<sup>2</sup>)

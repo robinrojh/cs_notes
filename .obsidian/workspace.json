@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Graph/SingleSourceShortestPath.md",
+                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Topic",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Graph/SingleSourceShortestPath.md",
+                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Graph/SingleSourceShortestPath.md",
+                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Graph/SingleSourceShortestPath.md"
+                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md"
               }
             }
           },
@@ -147,12 +148,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,43 +167,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c20f070c73a4eae",
+  "active": "a7643b78c0457777",
   "lastOpenFiles": [
-    "Untitled.loom",
-    "Algorithms/Graph/SingleSourceShortestPath.md",
-    "Algorithms/Searching/DepthFirstSearch.md",
-    "Algorithms/Searching/BreadthFirstSearch.md",
     "Algorithms/Graph/MinimumSpanningTree.md",
-    "Algorithms/Graph/SingleSourceShortestPath/DynamicProgramming.md",
-    "Algorithms/Graph/SingleSourceShortestPath/ModifiedDijkstra.md",
-    "Algorithms/Graph/SingleSourceShortestPath/Dijkstra.md",
+    "2023-09-20.md",
     "Algorithms/Graph/SingleSourceShortestPath/BellmanFord.md",
-    "Data Structures/Graph/Graph.md",
-    "templates/Algorithm.md",
-    "templates/Sorting Algorithm.md",
+    "Data Structures/Graph/UnionFindDisjointSet.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Data Structures/Graph/BipartiteGraph.md",
+    "Algorithms/Graph/SingleSourceShortestPath/ModifiedDijkstra.md",
+    "Data Structures/Graph/DirectedAcyclicGraph.md",
+    "Data Structures/Tree/AVLTree.md",
+    "Data Structures/Tree/abTree.md",
+    "Data Structures/Tree/BinaryTree.md",
+    "Data Structures/Tree/BinarySearchTree.md",
+    "Data Structures/Graph/CompleteGraph.md",
+    "Data Structures/Tree/Tree.md",
+    "Data Structures/Tree/ScapegoatTree.md",
+    "Data Structures/Data Structures.md",
+    "Algorithms/Sorting/TopologicalSort.md",
+    "Algorithms/Graph/SingleSourceShortestPath.md",
+    "Algorithms/Sorting/SelectionSort.md",
     "Algorithms/Recurrence/Recurrence.md",
+    "Algorithms/Searching/QuickSelect.md",
+    "Algorithms/Graph/SingleSourceShortestPath/DynamicProgramming.md",
+    "templates/Algorithm.md",
+    "Algorithms/Algorithms.md",
+    "Algorithms/Searching/BinarySearch.md",
+    "Algorithms/Searching/BreadthFirstSearch.md",
+    "Algorithms/Sorting/BubbleSort.md",
+    "Untitled.loom",
     "Algorithms/Graph/SingleSourceShortestPath",
     "assets/Pasted image 20230920100735.png",
     "assets/Pasted image 20230920100731.png",
-    "Data Structures/Graph/GraphDS.md",
-    "Data Structures/Graph/UnionFindDisjointSet.md",
-    "Data Structures/Graph/DirectedAcyclicGraph.md",
-    "Data Structures/Graph/BipartiteGraph.md",
-    "Data Structures/Graph/CompleteGraph.md",
-    "Data Structures/Graph/UnionFind.md",
-    "Algorithms/Algorithms.md",
     "Algorithms/Graph",
-    "Algorithms/Recurrence/MasterTheorem.md",
-    "Data Structures/Tree/BinaryTree.md",
-    "Algorithms/Sorting/TopologicalSort.md",
-    "Algorithms/Searching/PeakFinding.md",
-    "templates/Data Structure.md",
-    "Algorithms/Searching/Searches.md",
     "Algorithms/Recurrence",
-    "Untitled.canvas",
     "assets/Pasted image 20230917131409.png",
     "assets",
-    "Untitled 1.canvas",
     "Algorithms/Searching",
     "Data Structures/Graph",
     "assets/Pasted image 20230918133023.png",

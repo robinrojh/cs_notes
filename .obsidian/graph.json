@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#Graph  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
+    },
+    {
       "query": "tag:#DataStructure  ",
       "color": {
         "a": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 10.4166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.5204108763401434,
+  "scale": 0.7735271043020271,
   "close": false
 }

@@ -2,6 +2,7 @@
 tags:
   - DataStructure
   - BST
+  - Graph
 ---
 Name: Scapegoat Tree
 
