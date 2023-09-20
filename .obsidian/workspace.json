@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "4213c299542d4db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bec8928fde3529bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c20f070c73a4eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Graph/SingleSourceShortestPath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c9b6a3af0583f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c1b6115b6b6e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8475d64d546e3550",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7643b78c0457777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Topic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0112b0067c846300",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "deb7d70d73ce28b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7914f5a118f2a7ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90f057c6bd3eb9b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithms/Graph/SingleSourceShortestPath.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0435456826990cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithms/Graph/SingleSourceShortestPath.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d0b7a7f76cef910",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97726db9e9928bf8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithms/Graph/SingleSourceShortestPath.md"
+              }
+            }
+          },
+          {
+            "id": "16dda17f7ab3f6a0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "59c33e38419fb484",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create new loom": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9c20f070c73a4eae",
+  "lastOpenFiles": [
+    "Untitled.loom",
+    "Algorithms/Graph/SingleSourceShortestPath.md",
+    "Algorithms/Searching/DepthFirstSearch.md",
+    "Algorithms/Searching/BreadthFirstSearch.md",
+    "Algorithms/Graph/MinimumSpanningTree.md",
+    "Algorithms/Graph/SingleSourceShortestPath/DynamicProgramming.md",
+    "Algorithms/Graph/SingleSourceShortestPath/ModifiedDijkstra.md",
+    "Algorithms/Graph/SingleSourceShortestPath/Dijkstra.md",
+    "Algorithms/Graph/SingleSourceShortestPath/BellmanFord.md",
+    "Data Structures/Graph/Graph.md",
+    "templates/Algorithm.md",
+    "templates/Sorting Algorithm.md",
+    "Algorithms/Recurrence/Recurrence.md",
+    "Algorithms/Graph/SingleSourceShortestPath",
+    "assets/Pasted image 20230920100735.png",
+    "assets/Pasted image 20230920100731.png",
+    "Data Structures/Graph/GraphDS.md",
+    "Data Structures/Graph/UnionFindDisjointSet.md",
+    "Data Structures/Graph/DirectedAcyclicGraph.md",
+    "Data Structures/Graph/BipartiteGraph.md",
+    "Data Structures/Graph/CompleteGraph.md",
+    "Data Structures/Graph/UnionFind.md",
+    "Algorithms/Algorithms.md",
+    "Algorithms/Graph",
+    "Algorithms/Recurrence/MasterTheorem.md",
+    "Data Structures/Tree/BinaryTree.md",
+    "Algorithms/Sorting/TopologicalSort.md",
+    "Algorithms/Searching/PeakFinding.md",
+    "templates/Data Structure.md",
+    "Algorithms/Searching/Searches.md",
+    "Algorithms/Recurrence",
+    "Untitled.canvas",
+    "assets/Pasted image 20230917131409.png",
+    "assets",
+    "Untitled 1.canvas",
+    "Algorithms/Searching",
+    "Data Structures/Graph",
+    "assets/Pasted image 20230918133023.png",
+    "assets/Pasted image 20230918132904.png",
+    "Data Structures/Hash Table",
+    "assets/Pasted image 20230918131754.png",
+    "assets/Pasted image 20230918131225.png",
+    "(/Data Structures",
+    "(",
+    "assets/Pasted image 20230917132656.png"
+  ]
+}
