@@ -11,12 +11,8 @@
             "id": "9c20f070c73a4eae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithms/Sorting/Quicksort/3-WayQuicksort.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,9 +158,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7643b78c0457777",
+  "active": "9c20f070c73a4eae",
   "lastOpenFiles": [
     "Algorithms/Graph/MinimumSpanningTree.md",
+    "Algorithms/Graph/SingleSourceShortestPath.md",
+    "Data Structures/Graph/Graph.md",
+    "Algorithms/Algorithms.md",
+    "Algorithms/Graph/MinimumSpanningTree/Kruskal.md",
+    "Algorithms/Graph/MinimumSpanningTree/Prim.md",
+    "Algorithms/Graph/MinimumSpanningTree",
+    "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
     "2023-09-20.md",
     "Algorithms/Graph/SingleSourceShortestPath/BellmanFord.md",
     "Data Structures/Graph/UnionFindDisjointSet.md",
@@ -187,16 +185,10 @@
     "Data Structures/Tree/ScapegoatTree.md",
     "Data Structures/Data Structures.md",
     "Algorithms/Sorting/TopologicalSort.md",
-    "Algorithms/Graph/SingleSourceShortestPath.md",
     "Algorithms/Sorting/SelectionSort.md",
     "Algorithms/Recurrence/Recurrence.md",
     "Algorithms/Searching/QuickSelect.md",
     "Algorithms/Graph/SingleSourceShortestPath/DynamicProgramming.md",
-    "templates/Algorithm.md",
-    "Algorithms/Algorithms.md",
-    "Algorithms/Searching/BinarySearch.md",
-    "Algorithms/Searching/BreadthFirstSearch.md",
-    "Algorithms/Sorting/BubbleSort.md",
     "Untitled.loom",
     "Algorithms/Graph/SingleSourceShortestPath",
     "assets/Pasted image 20230920100735.png",
@@ -213,7 +205,6 @@
     "assets/Pasted image 20230918131754.png",
     "assets/Pasted image 20230918131225.png",
     "(/Data Structures",
-    "(",
     "assets/Pasted image 20230917132656.png"
   ]
 }

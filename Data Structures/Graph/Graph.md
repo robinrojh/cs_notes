@@ -36,3 +36,4 @@ tags:
 - [[DirectedAcyclicGraph]]
 - [[BreadthFirstSearch]]
 - [[DepthFirstSearch]]
+- [[MinimumSpanningTree]]
