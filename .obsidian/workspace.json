@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "52f43c210593cab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Recurrence/Recurrence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithms/Recurrence/Recurrence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithms/Recurrence/Recurrence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithms/Recurrence/Recurrence.md"
+              }
             }
           },
           {
@@ -138,13 +155,23 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "639bd252fa268f5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Algorithms/Recurrence/Recurrence.md"
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,37 +185,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c20f070c73a4eae",
+  "active": "52f43c210593cab0",
   "lastOpenFiles": [
-    "Algorithms/Graph/MinimumSpanningTree.md",
-    "Algorithms/Graph/SingleSourceShortestPath.md",
-    "Data Structures/Graph/Graph.md",
     "Algorithms/Algorithms.md",
-    "Algorithms/Graph/MinimumSpanningTree/Kruskal.md",
-    "Algorithms/Graph/MinimumSpanningTree/Prim.md",
-    "Algorithms/Graph/MinimumSpanningTree",
-    "Algorithms/Sorting/Quicksort/3-WayQuicksort.md",
-    "2023-09-20.md",
-    "Algorithms/Graph/SingleSourceShortestPath/BellmanFord.md",
+    "Algorithms/AsymptoticAnalysis.md",
+    "Computer Organization",
+    "Algorithms/Searching/Searches.md",
+    "Algorithms/Searching/PeakFinding.md",
+    "Algorithms/Searching/BreadthFirstSearch.md",
+    "Algorithms/Searching/BinarySearch.md",
+    "Data Structures/Graph/Graph.md",
+    "Data Structures/Graph/GraphDS.md",
+    "Data Structures/Data Structures.md",
+    "Programming Principles/Basics/Polymorphism.md",
+    "Programming Principles/Basics/Inheritance.md",
+    "Programming Principles/Basics/Encapsulation.md",
+    "Programming Principles/Principles.md",
+    "Programming Principles/Type.md",
+    "Programming Principles/Basics",
+    "Programming Principles/PECS.md",
+    "Programming Principles/Variance.md",
+    "Programming Principles/Immutability.md",
+    "Algorithms/Reduction/Reduction.md",
+    "Algorithms/Reduction/CSAT.md",
+    "Algorithms/Reduction/Clique.md",
+    "Algorithms/Reduction",
+    "Programming Principles/LiskovSubstitutionPrinciple.md",
+    "templates/Principle.md",
     "Data Structures/Graph/UnionFindDisjointSet.md",
+    "Algorithms/Graph/MinimumSpanningTree/Prim.md",
+    "Algorithms/Graph/MinimumSpanningTree/Kruskal.md",
+    "Algorithms/Graph/MinimumSpanningTree.md",
+    "Algorithms/Graph/MinimumSpanningTree",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Data Structures/Graph/BipartiteGraph.md",
-    "Algorithms/Graph/SingleSourceShortestPath/ModifiedDijkstra.md",
-    "Data Structures/Graph/DirectedAcyclicGraph.md",
-    "Data Structures/Tree/AVLTree.md",
-    "Data Structures/Tree/abTree.md",
-    "Data Structures/Tree/BinaryTree.md",
-    "Data Structures/Tree/BinarySearchTree.md",
-    "Data Structures/Graph/CompleteGraph.md",
-    "Data Structures/Tree/Tree.md",
-    "Data Structures/Tree/ScapegoatTree.md",
-    "Data Structures/Data Structures.md",
-    "Algorithms/Sorting/TopologicalSort.md",
-    "Algorithms/Sorting/SelectionSort.md",
-    "Algorithms/Recurrence/Recurrence.md",
-    "Algorithms/Searching/QuickSelect.md",
-    "Algorithms/Graph/SingleSourceShortestPath/DynamicProgramming.md",
     "Untitled.loom",
     "Algorithms/Graph/SingleSourceShortestPath",
     "assets/Pasted image 20230920100735.png",
@@ -198,13 +228,10 @@
     "assets/Pasted image 20230917131409.png",
     "assets",
     "Algorithms/Searching",
-    "Data Structures/Graph",
     "assets/Pasted image 20230918133023.png",
     "assets/Pasted image 20230918132904.png",
-    "Data Structures/Hash Table",
     "assets/Pasted image 20230918131754.png",
     "assets/Pasted image 20230918131225.png",
-    "(/Data Structures",
     "assets/Pasted image 20230917132656.png"
   ]
 }
