@@ -2,6 +2,7 @@
 tags:
   - DataStructure
   - Graph
+  - CS2040
 ---
 #### Tree Properties
 1. Connected graph with V vertices and E - 1 edges

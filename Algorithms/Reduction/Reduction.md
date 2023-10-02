@@ -1,6 +1,7 @@
 ---
 tags:
   - Algorithm
+  - CS3230
 ---
 #### Description:
 **Given two decision problems A and B, polynomial-time reduction from A to B (A ≤<sub>p</sub> B) is a transformation from instance a of A to instance b of B.

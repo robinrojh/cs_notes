@@ -1,6 +1,7 @@
 ---
 tags:
   - Algorithm
+  - CS2040
 ---
 #### Description:
 **Problem: Finding a local maximum in an UNSORTED array** 

@@ -2,6 +2,7 @@
 tags:
   - DataStructure
   - Topic
+  - CS2040
 ---
 #### Name: Adjacency Matrix
 

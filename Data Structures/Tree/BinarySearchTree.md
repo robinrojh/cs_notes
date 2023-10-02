@@ -3,6 +3,7 @@ tags:
   - DataStructure
   - BST
   - Graph
+  - CS2040
 ---
 Name: Binary Search Tree
 

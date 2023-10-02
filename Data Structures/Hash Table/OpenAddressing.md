@@ -1,6 +1,7 @@
 ---
 tags:
   - DataStructure
+  - CS2040
 ---
 Linear Probing: i=(base + step*1) % M,  
 Quadratic Probing: i=(base + step * step) % M, and  

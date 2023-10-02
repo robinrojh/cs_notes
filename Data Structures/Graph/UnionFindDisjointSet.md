@@ -2,6 +2,7 @@
 tags:
   - DataStructure
   - Graph
+  - CS2040
 ---
 #### Name: Union Find Disjoint Set (UFDS)
 

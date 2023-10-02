@@ -1,6 +1,7 @@
 ---
 tags:
   - Algorithm
+  - CS2040
 ---
 #### Description:
 **Problem: find a more efficient way of searching for an element in a sorted array than linear search**

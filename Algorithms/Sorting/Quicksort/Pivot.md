@@ -2,6 +2,7 @@
 tags:
   - Sorting
   - Algorithm
+  - CS2040
 ---
 1. Random Pivot
 2. First element as pivot

@@ -2,6 +2,7 @@
 tags:
   - Principle
   - Topic
+  - CS2030
 ---
 Basics
 1. [[Inheritance]]

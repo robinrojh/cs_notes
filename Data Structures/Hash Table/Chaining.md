@@ -1,6 +1,7 @@
 ---
 tags:
   - DataStructure
+  - CS2040
 ---
 Name: Chaining structure for hash tables
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Algorithm
+  - CS2040
+  - CS3230
 ---
 Master theorem is not applicable if:
 **T(n) = aT(n/b) + f(n)**

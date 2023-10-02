@@ -2,6 +2,7 @@
 tags:
   - Sorting
   - Algorithm
+  - CS2040
 ---
 Time Complexity: 
 - Worst: O(n log n)

@@ -2,6 +2,8 @@
 tags:
   - Algorithm
   - Topic
+  - CS2040
+  - CS3230
 ---
 #### Correctness & Efficiency
 - In an algorithm, we want both!
